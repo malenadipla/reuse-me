@@ -5,7 +5,7 @@
 
 Η εφαρμογή θα αναπτυχθεί με το AppInventor και θα αξιοποιεί ένα μοντέλο αναγνώρισης εικόνας (image classification), το οποίο θα επιτρέπει σε παιδιά να τραβούν φωτογραφίες αντικειμένων και να λαμβάνουν προτάσεις για δημιουργική επαναχρησιμοποίηση. Το μοντέλο της τεχνητής νοημοσύνης θα εκπαιδευτεί με τη χρήση της πλατφόρμας Teachable Machine.
 
-<strong>Screenshots Εφαρμογής</strong>
+<strong>Screenshots Αρχικού Σχεδίου Εφαρμογής</strong>
 
 <img src="https://github.com/malenadipla/reuse-me/assets/158208799/6427743a-59ad-4618-9998-2a28bdf229ab" width=20% height=20%>
 <img src="https://github.com/malenadipla/reuse-me/assets/158208799/78a58725-b267-46da-81c6-bc246ee27d03" width=20% height=20%>
